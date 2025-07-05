@@ -92,7 +92,7 @@ if st.button("Predict Heart Disease Risk"):
         'Stroke': stroke,
         'PhysicalHealth': ph,
         'MentalHealth': mh,
-        'DiffWalk': diff_walk,
+        'DiffWalking': diff_walk,
         'Sex': sex,
         'AgeCategory': age_cat,
         'Race': race,
